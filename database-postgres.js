@@ -34,4 +34,3 @@ export class DatabasePostgres {
   }
 }
 
-//PAREI NO MINUTO 1:12:24
